@@ -1,6 +1,3 @@
-# DDC-Classification-using-Ensemble-Learning
-Implementasi sistem klasifikasi otomatis yang dirancang untuk memprediksi kelas utama Dewey Decimal Classification (DDC 000-900) berdasarkan metadata buku. Sistem ini menggunakan pendekatan Ensemble Deep Learning dengan menggabungkan tiga arsitektur Transformer: RoBERTa, BERT, dan DistilBERT.
-
 # Klasifikasi Teks Ensemble untuk Dewey Decimal Classification (DDC)
 
 Proyek ini mengimplementasikan sistem klasifikasi teks otomatis berbasis *Deep Learning* untuk mengategorikan data bibliografi ke dalam sepuluh kelas utama Dewey Decimal Classification (DDC 000-900). Sistem ini menggunakan pendekatan *ensemble* yang menggabungkan tiga model Transformer pra-latih (*pre-trained*) untuk mencapai akurasi prediksi yang lebih tinggi dibandingkan model tunggal.
